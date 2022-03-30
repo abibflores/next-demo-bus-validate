@@ -1,0 +1,25 @@
+{
+  "name": "next-demo-bus-validate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abibflores/next-demo-bus-validate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abibflores/next-demo-bus-validate/issues"
+  },
+  "homepage": "https://github.com/abibflores/next-demo-bus-validate#readme",
+  "dependencies": {
+    "next": "^12.1.2",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
